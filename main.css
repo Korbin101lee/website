@@ -25,7 +25,6 @@ a {
   user-select: none;
   -webkit-user-select: none;
   touch-action: manipulation;
-  
 }
 .title {
     color: #d75959;
