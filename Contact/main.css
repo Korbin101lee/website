@@ -1,0 +1,48 @@
+body{
+    background-image: url("https://kahedu.edu.in/n/wp-content/uploads/2023/07/The-future-of-computer-science-with-cognitive-systems-990x500.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.Header a{
+    background-color: rgb(0, 8, 255);
+    border-radius: 8px;
+    box-sizing: border-box;
+    color: #ffffff;
+    display: inline-block;
+    font-family: "Haas Grot Text R Web", "Helvetica Neue", Helvetica, Arial, sans-serif;
+    font-size: 20px;
+    font-weight: 500;
+    height: 40px;
+    line-height: 20px;
+    margin: 10px 30px;
+    outline: none;
+    padding: 10px 100px;
+    position: relative;
+    text-align: center;
+    text-decoration: none;
+    transition: color 100ms;
+    vertical-align: middle;
+    user-select: none;
+    -webkit-user-select: none;
+    touch-action: manipulation;
+  }
+  .container{
+        position: relative;
+        width: 39%;
+        max-width: 1180px;
+        height: 470px;
+        transform: translate(71%, 14%);
+        background-color: #292929;
+        color: #dcdcdc;
+        padding: 12px 20px;
+        box-sizing: border-box;
+        border-radius: 4px;
+        resize: none;
+  }
+  .container p{
+    color:aqua;
+  }
+  .container a {
+    color: white;
+  }
+  
