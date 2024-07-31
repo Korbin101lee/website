@@ -29,6 +29,6 @@ cd website
 
 
 Contact
-If you have any questions or would like to get in touch, please reach out to me through my website or via email at mailto:khillan5223@gmail.com
+If you have any questions or would like to get in touch, please reach out to me through my website or via email at [khillan5223@gmail.com](mailto:khillan5223@gmail.com)
 
 Thank you for visiting my personal website project!
