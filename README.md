@@ -1,3 +1,34 @@
-Hello my name is Korbin HIllan, This is my website project/portfolio to demonstrate some of my html and css learning journey as well as hopefully the backend javascript to become a full stack developer.
-This project will also be used to contain a link and discription of all my projects i will make in my future for my resume and to expand my portfolio. Thank you for looking into my personal website.
-Here is a link to my website: https://korbin101lee.com/
+# Korbin Hillan's Personal Website
+
+Welcome to my personal website project! This repository contains the source code for my portfolio website, which showcases my journey in learning HTML, CSS, and backend JavaScript. This website will serve as a central hub for all my future projects, providing links and descriptions to help expand my portfolio and enhance my resume.
+
+## Project Overview
+
+This website is a work-in-progress and aims to demonstrate my skills as a full stack developer. Here, you will find various projects I have worked on, including details about each project, the technologies used, and links to the repositories.
+
+## Features
+
+- **HTML & CSS**: The website is built with a strong foundation in HTML and CSS, reflecting my understanding and application of these technologies.
+- **JavaScript**: Future updates will include backend JavaScript to showcase my progression towards becoming a full stack developer.
+- **Project Portfolio**: The site will include links and descriptions of all my projects, making it easier for potential employers and collaborators to explore my work.
+- **Responsive Design**: The website is designed to be responsive and accessible on various devices.
+
+## Getting Started
+
+To view or modify the website locally, follow these steps:
+
+1. **Clone the repository**:
+   ```bash
+   git clone https://github.com/Korbin101lee/website.git
+
+
+2. **Navigate to the project directory:**
+cd website
+
+3. **Open index.html in your preferred web browser.**
+
+
+Contact
+If you have any questions or would like to get in touch, please reach out to me through my website or via email at mailto:khillan5223@gmail.com
+
+Thank you for visiting my personal website project!
